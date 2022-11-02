@@ -114,8 +114,8 @@ You Created. --> Save.
 
 # 11) connect to the master node
     sh -i ~/.ssh/id_rsa ubuntu@ipAddress
-    ssh -i ~/.ssh/id_rsa ubuntu@18.222.139.125
-    ssh -i ~/.ssh/id_rsa ubuntu@172.20.58.124
+    ssh -i ~/.ssh/id_rsa ubuntu@13.58.228.187
+    ssh -i ~/.ssh/id_rsa ubuntu@172.20.56.108
 # 11) To list nodes
 
 	  kubectl get nodes 
